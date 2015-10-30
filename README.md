@@ -7,7 +7,7 @@ So, always.
 
 > This is a collection of gudetama-related slack-compatible emojis. Pull Requests welcome, but I understand if you don't want to bother.
 
-![gudetama](/gudetama_scratch.jpg)
+![gudetama](/gudetama_scratch.png)
 
 
 ## LICENSE
